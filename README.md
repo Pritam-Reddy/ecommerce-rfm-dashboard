@@ -38,7 +38,7 @@ The goal of this analysis was to move beyond simple cohort analysis and use unsu
 
 ---
 
-## 🎯 Next Step: Live Deployment
+## 🎯 Live Deployment
 
 The final analysis results from this notebook were used to build an executive-level interactive dashboard.
 
