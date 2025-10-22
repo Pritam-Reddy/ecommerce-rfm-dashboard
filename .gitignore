@@ -1,0 +1,7 @@
+# Ignore the virtual environment folder
+venv/
+# Ignore temporary python cache files
+__pycache__/
+*.pyc
+# Ignore the original large data file (already confirmed not to upload)
+online_retail_II.csv
